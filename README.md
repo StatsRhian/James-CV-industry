@@ -1,5 +1,5 @@
 ## My C.V
-You can download my C.V as a [PDF](https://raw.githubusercontent.com/trianglegirl/james-CV-industry/master/resume.pdf).
+You can download my C.V as a [PDF](https://raw.githubusercontent.com/trianglegirl/James-CV-industry/master/resume.pdf).
 
 ## Credit
 
